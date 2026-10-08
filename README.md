@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**lshankar83-tech/lshankar83-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Sankar 👋
+About Me
+Working for Shell India as Canada Capex Lead
+Passionate about CI, Finance Transformation
+Building Power Apps and workflow solutions
+Interested in Digital Finance and Analytics
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Financial Planning & Analysis
+SAP S/4HANA
+Power Platform
+Power BI
+Project Economics
+Business Partnering
+Current Projects
+VFIN Workflow Solution
+Finance Process Simplification
+Capex Governance Automation
